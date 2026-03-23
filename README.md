@@ -152,3 +152,11 @@ Key parameters you may want to tune:
 - [ ] Gaze tracking integration (MediaPipe FaceMesh)
 - [ ] Low-latency mode via Numba JIT on landmark math
 
+---
+
+## 👨‍💻 Developer
+
+**Ishan Maitra**  
+Cloud & AI Developer of **Google Cloud**
+
+

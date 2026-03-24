@@ -157,6 +157,12 @@ Key parameters you may want to tune:
 ## 👨‍💻 Developer
 
 **Ishan Maitra**  
-Cloud & AI Developer of **Google Cloud**
+Cloud & AI Developer — **Google Cloud**  
+Founder of **Maitra Web Tech** & **WebX**
+
+- 📧 Email: ishanmaitra2012@gmail.com  
+- 🌐 Portfolio: https://ishanmaitra.github.io/ishanmaitra/ 
+- 📱 Phone: +91 9674026774
+
 
 
